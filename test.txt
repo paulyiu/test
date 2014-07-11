@@ -1,0 +1,10 @@
+ Volume in drive F is Data
+ Volume Serial Number is A8C7-6730
+
+ Directory of f:\Cloud\Project\git\test
+
+2014-07-11  19:56    <DIR>          .
+2014-07-11  19:56    <DIR>          ..
+2014-07-11  19:56                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  1,069,545,967,616 bytes free
